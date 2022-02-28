@@ -1,0 +1,1 @@
+mspaint.exe|firefox.exe|chrome.exe
